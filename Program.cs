@@ -15,6 +15,7 @@ namespace Foro1
             Console.WriteLine("ojalskd");
             string prueba;
             Console.WriteLine(prueba = Console.ReadLine());
+            Console.WriteLine("soloPushNocommit");
         }
     }
 }
