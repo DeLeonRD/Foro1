@@ -10,7 +10,8 @@ namespace Foro1
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Prueba uno de push");
+            //prueba para push2
         }
     }
 }
