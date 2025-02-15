@@ -13,6 +13,8 @@ namespace Foro1
             Console.WriteLine("Prueba uno de push");
             //prueba para push2
             Console.WriteLine("ojalskd");
+            string prueba;
+            Console.WriteLine(prueba = Console.ReadLine());
         }
     }
 }
