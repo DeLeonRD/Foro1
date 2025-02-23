@@ -56,7 +56,7 @@ namespace Ejercicio1_Foro1
                 Console.WriteLine("\t    V = Cliente VIP");
                 Console.Write("\n\tDigite su opción [N,P,V] : ");
                 Console.ForegroundColor = ConsoleColor.Green;
-                TipodeCliente = Console.ReadLine();
+                TipodeCliente = Console.ReadLine().ToUpper();
                 if (TipodeCliente == "N" || TipodeCliente == "P" || TipodeCliente == "V")
                 {
                     break;
